@@ -35,7 +35,7 @@ numpy==1.18.2
 openpyxl==3.0.3
 packaging==20.3
 pandas==1.0.3
-Pillow==7.1.1
+Pillow==8.1.1
 pip-upgrader==1.4.15
 pycparser==2.20
 PyJWT==1.7.1
